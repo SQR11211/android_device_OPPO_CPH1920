@@ -6,7 +6,7 @@ Modified from:https://github.com/ZG089/android_device_OPPO_CPH1909
 
 <hr />
 Data decryption and MTP functionality are not working, but I’ve left behind some libraries; you might try fixing it yourself.
-About CPH1920 and CPH1920,they are same,but only one diffence is CPH1920 dosen't have fingerprint hardware.
+About CPH1909 and CPH1920,they are same,but only one diffence is CPH1920 dosen't have fingerprint hardware.
  
 <hr />
 ### Device specifications
